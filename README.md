@@ -1,2 +1,2 @@
-# GPIO
-basics of gpio
+# PYTHON
+gpio,opencv,sensehat
